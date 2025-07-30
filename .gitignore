@@ -1,0 +1,6 @@
+# 忽略 macOS 生成的隐藏文件
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
