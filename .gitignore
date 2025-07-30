@@ -3,4 +3,5 @@
 .AppleDouble
 .LSOverride
 ._*
-
+./SecondBrain.xcodeproj/_*
+./SecondBrain/_*
